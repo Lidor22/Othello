@@ -1,19 +1,15 @@
 # Othello
-#  Othello Game
+
 
 # Introduction:
 
 As part of an OOP in C# and the .NET Framework course we were given a task to teach us different elements:
 
-Implementation of work with department and object-oriented programming.
-
-Working with arrays / collections classes.
-
-Using the string class.
-
-Development and use of Dll.
-
-Implemention several design patterns.
+* Implementation of work with department and object-oriented programming.
+* Working with arrays / collections classes.
+* Using the string class.
+* Development and use of Dll.
+* Implemention several design patterns.
 
 # Our project:
 
