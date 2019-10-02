@@ -1,7 +1,7 @@
 # Othello
-Othello Game
+#  Othello Game
 
-Introduction:
+# Introduction:
 
 As part of an OOP in C# and the .NET Framework course we were given a task to teach us different elements:
 
@@ -15,7 +15,7 @@ Development and use of Dll.
 
 Implemention several design patterns.
 
-Our project:
+# Our project:
 
 The game is a well-known board game invented in 1880.
 
