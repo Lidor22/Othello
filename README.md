@@ -1,14 +1,22 @@
 # Othello
 Othello Game
+
 Introduction:
+
 As part of an OOP in C# and the .NET Framework course we were given a task to teach us different elements:
 
 Implementation of work with department and object-oriented programming.
+
 Working with arrays / collections classes.
+
 Using the string class.
+
 Development and use of Dll.
+
 Implemention several design patterns.
+
 Our project:
+
 The game is a well-known board game invented in 1880.
 
 Originally, the game board is an 8 by 8 matrix (However, its size can be determined).
