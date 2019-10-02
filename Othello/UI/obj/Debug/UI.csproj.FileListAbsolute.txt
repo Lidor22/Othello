@@ -1,0 +1,108 @@
+C:\Users\adiko\source\repos\NewOthelo\UI\bin\Debug\UI.exe
+C:\Users\adiko\source\repos\NewOthelo\UI\bin\Debug\UI.pdb
+C:\Users\adiko\source\repos\NewOthelo\UI\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\adiko\source\repos\NewOthelo\UI\bin\Debug\NewOthelo.dll
+C:\Users\adiko\source\repos\NewOthelo\UI\bin\Debug\NewOthelo.pdb
+C:\Users\adiko\source\repos\NewOthelo\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\adiko\source\repos\NewOthelo\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\adiko\source\repos\NewOthelo\UI\obj\Debug\UI.exe
+C:\Users\adiko\source\repos\NewOthelo\UI\obj\Debug\UI.pdb
+C:\Users\Tomer\Desktop\פרויקטים\NewOthelo\NewOthelo\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Tomer\Desktop\פרויקטים\NewOthelo\NewOthelo\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\פרויקטים\NewOthelo\NewOthelo\UI\obj\Debug\UI.exe
+C:\Users\Tomer\Desktop\פרויקטים\NewOthelo\NewOthelo\UI\obj\Debug\UI.pdb
+C:\Users\Tomer\Desktop\פרויקטים\NewOthelo\NewOthelo\UI\bin\Debug\UI.exe
+C:\Users\Tomer\Desktop\פרויקטים\NewOthelo\NewOthelo\UI\bin\Debug\UI.pdb
+C:\Users\Tomer\Desktop\פרויקטים\NewOthelo\NewOthelo\UI\bin\Debug\Ex04.ValidationOfData.dll
+C:\Users\Tomer\Desktop\פרויקטים\NewOthelo\NewOthelo\UI\bin\Debug\NewOthelo.dll
+C:\Users\Tomer\Desktop\פרויקטים\NewOthelo\NewOthelo\UI\bin\Debug\Ex04.ValidationOfData.pdb
+C:\Users\Tomer\Desktop\פרויקטים\NewOthelo\NewOthelo\UI\bin\Debug\NewOthelo.pdb
+C:\Users\Tomer\Desktop\פרויקטים\NewOthelo\NewOthelo\UI\obj\Debug\UI.csproj.CopyComplete
+C:\school\yaer2\b\cSharp\5\NewOthelo\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\school\yaer2\b\cSharp\5\NewOthelo\UI\obj\Debug\UI.FormGame.resources
+C:\school\yaer2\b\cSharp\5\NewOthelo\UI\obj\Debug\UI.FormLoginD.resources
+C:\school\yaer2\b\cSharp\5\NewOthelo\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\school\yaer2\b\cSharp\5\NewOthelo\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\school\yaer2\b\cSharp\5\NewOthelo\UI\obj\Debug\UI.exe
+C:\school\yaer2\b\cSharp\5\NewOthelo\UI\obj\Debug\UI.pdb
+C:\school\yaer2\b\cSharp\5\NewOthelo\UI\bin\Debug\UI.exe
+C:\school\yaer2\b\cSharp\5\NewOthelo\UI\bin\Debug\UI.pdb
+C:\school\yaer2\b\cSharp\5\NewOthelo\UI\bin\Debug\NewOthelo.dll
+C:\school\yaer2\b\cSharp\5\NewOthelo\UI\bin\Debug\NewOthelo.pdb
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\UI\bin\Debug\UI.exe
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\UI\bin\Debug\UI.pdb
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\UI\bin\Debug\NewOthelo.dll
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\UI\bin\Debug\NewOthelo.pdb
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\UI\obj\Debug\UI.FormGame.resources
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\UI\obj\Debug\UI.FormLoginD.resources
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\UI\obj\Debug\UI.exe
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\UI\obj\Debug\UI.pdb
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\UI\obj\Debug\UI.Properties.Resources.resources
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\UI\bin\Debug\UI.exe
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\UI\bin\Debug\UI.pdb
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\UI\bin\Debug\NewOthelo.dll
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\UI\bin\Debug\NewOthelo.pdb
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\UI\obj\Debug\UI.FormGame.resources
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\UI\obj\Debug\UI.FormLoginD.resources
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\UI\obj\Debug\UI.Properties.Resources.resources
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\UI\obj\Debug\UI.exe
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\UI\obj\Debug\UI.pdb
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\UI\bin\Debug\UI.exe
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\UI\bin\Debug\UI.pdb
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\UI\bin\Debug\NewOthelo.dll
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\UI\bin\Debug\NewOthelo.pdb
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\UI\obj\Debug\UI.FormGame.resources
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\UI\obj\Debug\UI.FormLoginD.resources
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\UI\obj\Debug\UI.exe
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\UI\obj\Debug\UI.pdb
+C:\Users\Tomer\Desktop\NewOthelo\UI\bin\Debug\UI.exe
+C:\Users\Tomer\Desktop\NewOthelo\UI\bin\Debug\UI.pdb
+C:\Users\Tomer\Desktop\NewOthelo\UI\bin\Debug\NewOthelo.dll
+C:\Users\Tomer\Desktop\NewOthelo\UI\bin\Debug\NewOthelo.pdb
+C:\Users\Tomer\Desktop\NewOthelo\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Tomer\Desktop\NewOthelo\UI\obj\Debug\UI.FormGame.resources
+C:\Users\Tomer\Desktop\NewOthelo\UI\obj\Debug\UI.FormLoginD.resources
+C:\Users\Tomer\Desktop\NewOthelo\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Tomer\Desktop\NewOthelo\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Tomer\Desktop\NewOthelo\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\NewOthelo\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Tomer\Desktop\NewOthelo\UI\obj\Debug\UI.exe
+C:\Users\Tomer\Desktop\NewOthelo\UI\obj\Debug\UI.pdb
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\bin\Debug\UI.exe
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\bin\Debug\UI.pdb
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\bin\Debug\NewOthelo.dll
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\bin\Debug\NewOthelo.pdb
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.FormGame.resources
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.FormLoginD.resources
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.exe
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.pdb
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\bin\Debug\UI.exe
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\bin\Debug\UI.pdb
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\bin\Debug\NewOthelo.dll
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\bin\Debug\NewOthelo.pdb
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.FormGame.resources
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.FormLoginD.resources
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.exe
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\UI\obj\Debug\UI.pdb

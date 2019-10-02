@@ -1,0 +1,48 @@
+C:\Users\adiko\source\repos\NewOthelo\NewOthelo\bin\Debug\NewOthelo.dll
+C:\Users\adiko\source\repos\NewOthelo\NewOthelo\bin\Debug\NewOthelo.pdb
+C:\Users\adiko\source\repos\NewOthelo\NewOthelo\obj\Debug\NewOthelo.csprojResolveAssemblyReference.cache
+C:\Users\adiko\source\repos\NewOthelo\NewOthelo\obj\Debug\NewOthelo.csproj.CoreCompileInputs.cache
+C:\Users\adiko\source\repos\NewOthelo\NewOthelo\obj\Debug\NewOthelo.dll
+C:\Users\adiko\source\repos\NewOthelo\NewOthelo\obj\Debug\NewOthelo.pdb
+C:\Users\Tomer\Desktop\פרויקטים\NewOthelo\NewOthelo\NewOthelo\bin\Debug\NewOthelo.dll
+C:\Users\Tomer\Desktop\פרויקטים\NewOthelo\NewOthelo\NewOthelo\bin\Debug\NewOthelo.pdb
+C:\Users\Tomer\Desktop\פרויקטים\NewOthelo\NewOthelo\NewOthelo\obj\Debug\NewOthelo.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\פרויקטים\NewOthelo\NewOthelo\NewOthelo\obj\Debug\NewOthelo.dll
+C:\Users\Tomer\Desktop\פרויקטים\NewOthelo\NewOthelo\NewOthelo\obj\Debug\NewOthelo.pdb
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\bin\Debug\NewOthelo.dll
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\bin\Debug\NewOthelo.pdb
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\obj\Debug\NewOthelo.csproj.CoreCompileInputs.cache
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\obj\Debug\NewOthelo.dll
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\obj\Debug\NewOthelo.pdb
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\bin\Debug\NewOthelo.dll
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\bin\Debug\NewOthelo.pdb
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\obj\Debug\NewOthelo.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\obj\Debug\NewOthelo.dll
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\obj\Debug\NewOthelo.pdb
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\NewOthelo\bin\Debug\NewOthelo.dll
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\NewOthelo\bin\Debug\NewOthelo.pdb
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\NewOthelo\obj\Debug\NewOthelo.csproj.CoreCompileInputs.cache
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\NewOthelo\obj\Debug\NewOthelo.dll
+C:\school\yaer2\b\cSharp\5\NewOthelo\NewOthelo\NewOthelo\obj\Debug\NewOthelo.pdb
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\NewOthelo\bin\Debug\NewOthelo.dll
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\NewOthelo\bin\Debug\NewOthelo.pdb
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\NewOthelo\obj\Debug\NewOthelo.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\NewOthelo\obj\Debug\NewOthelo.dll
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\NewOthelo\NewOthelo\obj\Debug\NewOthelo.pdb
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\bin\Debug\NewOthelo.dll
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\bin\Debug\NewOthelo.pdb
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\obj\Debug\NewOthelo.csprojAssemblyReference.cache
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\obj\Debug\NewOthelo.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\obj\Debug\NewOthelo.dll
+C:\Users\Tomer\Desktop\NewOthelo\NewOthelo\obj\Debug\NewOthelo.pdb
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\NewOthelo\bin\Debug\NewOthelo.dll
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\NewOthelo\bin\Debug\NewOthelo.pdb
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\NewOthelo\obj\Debug\NewOthelo.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\NewOthelo\obj\Debug\NewOthelo.dll
+C:\Users\Tomer\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\NewOthelo\obj\Debug\NewOthelo.pdb
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\NewOthelo\bin\Debug\NewOthelo.dll
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\NewOthelo\bin\Debug\NewOthelo.pdb
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\NewOthelo\obj\Debug\NewOthelo.csprojAssemblyReference.cache
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\NewOthelo\obj\Debug\NewOthelo.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\NewOthelo\obj\Debug\NewOthelo.dll
+C:\Users\97250\Desktop\B19 Ex05 LidorHadar 312527682 AdiKoch 205871545\NewOthelo\obj\Debug\NewOthelo.pdb
